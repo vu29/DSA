@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "chrono": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "iostream": "cpp",
+        "bitset": "cpp",
+        "optional": "cpp",
+        "functional": "cpp",
+        "future": "cpp",
+        "iosfwd": "cpp",
+        "stdexcept": "cpp",
+        "algorithm": "cpp"
+    },
+    "cSpell.words": [
+        "Inorder"
+    ]
+}
